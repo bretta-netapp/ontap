@@ -154,11 +154,7 @@ Beginning with ONTAP 9.10.1, you can use System Manager to enable the Automatic 
 
 .Before you begin
 
-You must have one of the following entitlements:
-
-* AIQEXPERT
-* AIQADVISOR
-* AIQUPGRADE
+You must have an active paid support contract. Warranty and Extended Warranty will not have this feature.
 
 You can learn more about entitlements and which ones you have at link:./system-admin/manage-licenses-concept.html[Manage licenses overview (cluster administrators only)].
 
